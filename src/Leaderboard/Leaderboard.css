@@ -1,0 +1,23 @@
+
+.leaderboard{
+    border: 5px solid #49C5B6;
+    width: 100%;
+    border-top: 0px;
+    border-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 120px;
+    overflow-x: hidden;
+    
+}
+
+ul{
+    padding-left: 100px;
+    align-items: center;
+    
+}
+
+li{
+    font-size: 14px;
+    font-weight: 500;
+}
+
